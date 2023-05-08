@@ -1,0 +1,10 @@
+/.idea/
+/target/
+/frontend/.yarn/
+/frontend/dist/
+/frontend/node/
+/frontend/node_modules/
+/frontend/.pnp.cjs
+/frontend/.pnp.loader.mjs
+.DS_Store
+**/target
